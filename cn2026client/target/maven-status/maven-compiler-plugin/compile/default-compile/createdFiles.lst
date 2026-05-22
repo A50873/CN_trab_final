@@ -1,0 +1,12 @@
+cn2026labels\client\handlers\DownloadImageHandler$1.class
+cn2026labels\client\handlers\ListImagesHandler.class
+cn2026labels\client\handlers\DownloadImageHandler.class
+cn2026labels\client\handlers\DecreaseProcessInstancesHandler.class
+cn2026labels\client\handlers\SearchImagesHandler.class
+cn2026labels\client\handlers\IncreaseProcessInstancesHandler.class
+cn2026labels\client\GrpcClient.class
+cn2026labels\client\handlers\IncreaseGrpcServersHandler.class
+cn2026labels\client\handlers\SubmitImageHandler.class
+cn2026labels\client\handlers\GetImageDataHandler.class
+cn2026labels\client\handlers\SubmitImageHandler$1.class
+cn2026labels\client\handlers\DecreaseGrpcServersHandler.class
