@@ -42,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>cn2026labels.client.GrpcClient</mainClass>
+                            <mainClass>cn2026client.GrpcClient</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

@@ -67,7 +67,7 @@
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-netty-shaded</artifactId>
-            <scope>runtime</scope>
+            <version>1.75.0</version>
         </dependency>
     </dependencies>
 
@@ -89,7 +89,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>cn2026labels.server.GrpcServer</mainClass>
+                            <mainClass>cn2026server.GrpcServer</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

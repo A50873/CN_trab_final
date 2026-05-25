@@ -1,6 +1,6 @@
 package cn2026labels.processor;
 
-import cn2026labels.server.labels.LabelsApp;
+import cn2026labels.labels.LabelsApp;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.google.auth.oauth2.GoogleCredentials;
