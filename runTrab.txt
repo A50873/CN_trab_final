@@ -1,0 +1,9 @@
+Google Cloud Shell
+------------------
+Run Server Mig
+    gcloud compute instance-groups managed resize cn2026-server-mig --size=1 --zone=europe-west1-b
+
+Run Labels Mig
+    gcloud compute instance-groups managed resize cn2026-labels-mig --size=1 --zone=europe-west1-b
+
+Run Client

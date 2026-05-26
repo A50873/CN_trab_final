@@ -10,6 +10,7 @@
         <module name="cn2026server" />
         <module name="cn2026labels" />
         <module name="cn2026contract" />
+        <module name="cn2026lookupfunction" />
       </profile>
     </annotationProcessing>
   </component>

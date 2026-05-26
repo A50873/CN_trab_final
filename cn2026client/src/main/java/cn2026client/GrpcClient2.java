@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class GrpcClient {
+public class GrpcClient2 {
 
     private static final String LOOKUP_URL =
             "https://europe-west1-cn2526-t3-g07.cloudfunctions.net/lookup";

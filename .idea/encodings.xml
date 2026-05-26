@@ -10,6 +10,8 @@
     <file url="file://$PROJECT_DIR$/cn2026contract/target/generated-sources/protobuf/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn2026labels/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn2026labels/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cn2026lookupfunction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cn2026lookupfunction/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn2026server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn2026server/src/main/resources" charset="UTF-8" />
   </component>
