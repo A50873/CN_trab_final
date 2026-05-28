@@ -3,11 +3,11 @@
     <envs>
       <env name="GOOGLE_APPLICATION_CREDENTIALS" value="C:\ISEL\6_semestre\CN\keys\cn2526-t3-g07-trab-final.json" />
     </envs>
-    <option name="MAIN_CLASS_NAME" value="cn2026labels.server.GrpcServer" />
-    <module name="cn2026labels" />
+    <option name="MAIN_CLASS_NAME" value="cn2026server.GrpcServer" />
+    <module name="cn2026server" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="cn2026labels.server.*" />
+        <option name="PATTERN" value="cn2026server.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>

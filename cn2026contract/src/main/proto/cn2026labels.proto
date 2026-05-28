@@ -12,20 +12,15 @@ package grpcservice;
 
 
 service SFService {
+  rpc submitImage(stream ImageChunk) returns(SubmitImageResponse);
 
+  rpc getImageData(ImageIdRequest) returns(GetImageDataResponse);
 
-rpc submitImage(stream ImageChunk) returns(SubmitImageResponse);
+  rpc searchImages(SearchImagesRequest) returns (SearchImagesResponse);
 
+  rpc listImages(ListImagesRequest) returns(ListImagesResponse);
 
-rpc getImageData(ImageIdRequest) returns(GetImageDataResponse);
-
-rpc searchImages(SearchImagesRequest) returns (SearchImagesResponse);
-
-rpc listImages(ListImagesRequest) returns(ListImagesResponse);
-
-rpc downloadImage(DownloadImageRequest) returns(stream ImageChunk);
-
-
+  rpc downloadImage(DownloadImageRequest) returns(stream ImageChunk);
 }
 
 message SubmitImageResponse{
@@ -86,7 +81,6 @@ service SGService{
 
   rpc increaseProcessingInstances(ScaleRequest) returns(ScaleResponse);
   rpc decreaseProcessingInstances(ScaleRequest) returns(ScaleResponse);
-
 
 }
 

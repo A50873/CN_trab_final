@@ -19,7 +19,7 @@ public class GrpcClient {
     private static final String LOOKUP_URL =
             "https://europe-west1-cn2526-t3-g07.cloudfunctions.net/lookup";
 
-    private static String svcIP;
+    private static String svcIP = "localhost";
     private static int svcPort = 7500;
 
     private static SFServiceGrpc.SFServiceStub sfNoBlockStub;
@@ -38,11 +38,9 @@ public class GrpcClient {
                 svcPort = Integer.parseInt(args[1]);
             } else {
                 List<String> servers = fetchServers();
-                if (servers.isEmpty()) {
-                    System.out.println("No available servers");
-                    return;
+                if (!servers.isEmpty()) {
+                    svcIP = chooseServer(scan, servers);
                 }
-                svcIP = chooseServer(scan, servers);
             }
 
             System.out.println("connect to " + svcIP + ":" + svcPort);

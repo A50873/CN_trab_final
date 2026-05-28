@@ -27,6 +27,11 @@ public class ProcessorMain {
         String projectId = "cn2526-t3-g07";
         String subscriptionId = "cn2026labels-processing-sub";
 
+        GoogleCredentials credentials = GoogleCredentials.getApplicationDefault();
+
+        System.out.println(credentials.getClass().getName());
+        System.out.println(System.getenv("GOOGLE_APPLICATION_CREDENTIALS"));
+
         Firestore firestore = FirestoreOptions.newBuilder()
                 .setDatabaseId("trab-final-db")
                 .setCredentials(GoogleCredentials.getApplicationDefault())

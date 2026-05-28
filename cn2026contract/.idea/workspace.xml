@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a97e710c-9b55-4afd-9781-f54b4b3fd8c3" name="Changes" comment="" />
+    <list default="true" id="cf13756a-92a8-4e37-8af3-c0a8f0bf4f99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/copilotDiffState.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations/ProcessorMain_with_GAC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cn2026client/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cn2026client/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cn2026client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cn2026client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cn2026labels/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cn2026labels/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cn2026labels/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cn2026labels/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cn2026labels/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cn2026labels/.idea/runConfigurations/GrpcServer_with_GAC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cn2026labels/.idea/runConfigurations/ProcessorMain_with_GAC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cn2026labels/.idea/vcs.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +37,11 @@
   <component name="CopilotChats">
     <option name="panelChat">
       <chat>
-        <option name="activeSessionId" value="a0d309d3-e779-4840-82d8-9c57431c62d4" />
+        <option name="activeSessionId" value="3e1f2e87-3f1f-417e-a33f-d3a5262da71c" />
         <option name="sessions">
           <session>
             <option name="chatType" value="PANEL" />
-            <option name="id" value="a0d309d3-e779-4840-82d8-9c57431c62d4" />
+            <option name="id" value="3e1f2e87-3f1f-417e-a33f-d3a5262da71c" />
             <option name="modeId" value="Agent" />
             <option name="modelType" value="builtin_family" />
             <option name="modelValue" value="auto" />
@@ -30,14 +54,17 @@
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
-      <entry key="_C:/ISEL/6_semestre/CN/trab_final/cn2026contract" value="3E4jCWjFGO4zH3QzpsFxQvQBFnK" />
+      <entry key="_C:/ISEL/6_semestre/CN/trab_final/cn2026contract" value="3EM9xvaPhPYBplmfvIF6UWawW8R" />
     </persistenceIdMap>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
+  "customColor": "",
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="3E4jCWjFGO4zH3QzpsFxQvQBFnK" />
+  <component name="ProjectId" id="3EM9xvaPhPYBplmfvIF6UWawW8R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,8 +73,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ISEL/6_semestre/CN/trab_final/cn2026contract",
     "vue.rearranger.settings.migration": "true"
@@ -63,12 +91,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a97e710c-9b55-4afd-9781-f54b4b3fd8c3" name="Changes" comment="" />
-      <created>1779444608408</created>
+      <changelist id="cf13756a-92a8-4e37-8af3-c0a8f0bf4f99" name="Changes" comment="" />
+      <created>1779977822431</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1779444608408</updated>
-      <workItem from="1779444609504" duration="8000" />
+      <updated>1779977822431</updated>
+      <workItem from="1779977823574" duration="15000" />
     </task>
     <servers />
   </component>

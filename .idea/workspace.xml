@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33bd0706-db78-4bda-99b2-ad7508e171f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilotDiffState.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026client/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn2026client/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn2026client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026client/src/main/java/cn2026client/GrpcClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn2026client/src/main/java/cn2026client/GrpcClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026contract/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn2026contract/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026contract/src/main/proto/cn2026labels.proto" beforeDir="false" afterPath="$PROJECT_DIR$/cn2026contract/src/main/proto/cn2026labels.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026labels/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026labels/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn2026labels/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026labels/.idea/runConfigurations/GrpcServer_with_GAC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026labels/.idea/runConfigurations/ProcessorMain_with_GAC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026labels/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cn2026labels/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026labels/src/main/java/cn2026labels/processor/ProcessorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn2026labels/src/main/java/cn2026labels/processor/ProcessorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026server/src/main/java/cn2026server/services/functional/functions/ListImagesFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn2026server/src/main/java/cn2026server/services/functional/functions/ListImagesFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn2026server/src/main/java/cn2026server/services/functional/functions/getImageDataFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn2026server/src/main/java/cn2026server/services/functional/functions/getImageDataFunction.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="504e19f3-5afd-4d96-a774-029bc74d9131" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="ce09b251-6439-4be0-ba79-5f05a2989831" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="status" value="Processing" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="504e19f3-5afd-4d96-a774-029bc74d9131" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/ISEL/6_semestre/CN/trab_final" value="3EMXdTD39AAOFaOTEdZdpB1Pz32" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Auto" />
+      <entry key="chat-panel" value="Auto" />
+    </selectedModels>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3EMXdTD39AAOFaOTEdZdpB1Pz32" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Ask" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GrpcClient.executor": "Run",
+    "Application.GrpcServer.executor": "Run",
+    "Application.GrpcServer_with_GAC.executor": "Run",
+    "Application.ProcessorMain.executor": "Run",
+    "Application.ProcessorMain_with_GAC.executor": "Run",
+    "Maven.cn2026server [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.GrpcClient">
+    <configuration name="GrpcClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn2026client.GrpcClient" />
+      <module name="cn2026client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn2026client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GrpcServer_with_GAC" />
+      <item itemvalue="Application.ProcessorMain_with_GAC" />
+      <item itemvalue="Application.GrpcClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GrpcClient" />
+        <item itemvalue="Application.ProcessorMain_with_GAC" />
+        <item itemvalue="Application.GrpcServer_with_GAC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33bd0706-db78-4bda-99b2-ad7508e171f5" name="Changes" comment="" />
+      <created>1779989501215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779989501215</updated>
+      <workItem from="1779989503701" duration="5356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

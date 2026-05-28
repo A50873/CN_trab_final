@@ -4,10 +4,7 @@
     <file url="file://$PROJECT_DIR$/cn2026client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn2026client/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn2026contract/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cn2026contract/src/main/proto" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn2026contract/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cn2026contract/target/generated-sources/protobuf/grpc-java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cn2026contract/target/generated-sources/protobuf/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn2026labels/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn2026labels/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cn2026lookupfunction/src/main/java" charset="UTF-8" />

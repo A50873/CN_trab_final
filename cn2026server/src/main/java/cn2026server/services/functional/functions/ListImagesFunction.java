@@ -25,9 +25,11 @@ public final class ListImagesFunction {
 
             ApiFuture<QuerySnapshot> future = firestore.collection(collectionName).get();
             for (DocumentSnapshot doc : future.get().getDocuments()) {
+                String requestId = doc.getString("request_id");
                 String imageName = doc.getString("image_name");
                 if (imageName != null && !imageName.isBlank()) {
-                    imageNames.add(imageName);
+                    var toAdd = requestId + " / " + imageName;
+                    imageNames.add(toAdd);
                 }
             }
 
